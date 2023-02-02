@@ -1,0 +1,32 @@
+.main-container1
+{
+       border: 1px solid black;
+       width: 40%;
+       margin-left: 33%;
+       margin-top:5% ;
+      
+}
+.name-div
+
+{
+       
+       display: flex;
+       border: 1px solid black;
+       justify-content: space-around;
+       background-color: aquamarine;
+       font-size: larger;
+       color: darkblue;
+       
+    
+}
+h1
+{
+       display: flex;
+       justify-content: center; 
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+       color: blue;
+}
+p{
+       font-size: larger;
+       color: red;
+}
